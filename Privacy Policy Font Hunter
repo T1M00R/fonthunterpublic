@@ -1,0 +1,29 @@
+Privacy Policy for Font Hunter
+
+Last Updated: [Current Date]
+
+1. Data Collection
+Font Hunter does not collect, store, or transmit any personal data. The extension only reads font information from the currently active webpage and displays it locally in the popup interface.
+
+2. Information Usage
+The only information accessed is the font-related CSS properties of elements on the current webpage. This information is:
+- Only used to display font names in the extension popup
+- Never stored beyond the current session
+- Never transmitted to any external servers
+
+3. Third-Party Services
+The extension provides links to Google Search for font information. Users who click these links will be subject to Google's privacy policy.
+
+4. Permissions
+The extension requires only the minimum necessary permissions:
+- "activeTab": To read font information from the current tab
+- "tabs": To display the popup interface
+
+5. Data Storage
+No data is stored locally or remotely by this extension.
+
+6. Updates
+This privacy policy may be updated to reflect changes in the extension's functionality. Users will be notified of any significant changes.
+
+7. Contact
+For questions about this privacy policy, contact: [Your Email]
